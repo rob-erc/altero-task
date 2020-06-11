@@ -34,7 +34,7 @@ Deals table requires columns:
 php -S localhost:8080
 ```
 
-5. Now the application is running. You can access the product page by typing 
+5. Now the application is running. You can access it by typing 
 ```
 localhost:8080
 ```
